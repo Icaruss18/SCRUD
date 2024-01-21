@@ -1,0 +1,11 @@
+Vyan_Service_1,Service,Vyan,Alat Tulis,Buku
+Vyan_Service_2,Service,Vyan,Alat Tulis,Pensil
+Vyan_Service_3,Service,Vyan,Alat Tulis,Penghapus
+Vyan_Service_4,Service,Vyan,Alat Tulis,Penggaris
+Hendra_Admin_1,Admin,Hendra,Stock Gudang,Tepung
+Hendra_Admin_2,Admin,Dinda,Stock Barang,Caramel
+Dinda_Admin_1,Admin,Dinda,Stock Barang,Gunting
+Dinda_Admin_2,Admin,Dinda,Stock Barang,Hand Towel
+Keanu_Kitchen_1,Kitchen,Keanu,Stock Kitchen,Bread Crumbs
+Keanu_Kitchen_2,Kitchen,Keanu,Stock Kitchen,Garlic Powder
+Keanu_Kitchen_1,Kitchen,Keanu,Freeze in,Patty
