@@ -82,7 +82,7 @@ public class Main {
         FileWriter fileOutput = new FileWriter(tempDB);
         BufferedWriter bufferedOutput = new BufferedWriter(fileOutput);
 
-        // tampilkan data
+        // tampilkan 
         System.out.println("List Buku");
         tampilkanData();
 
